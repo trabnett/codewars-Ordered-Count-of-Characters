@@ -21,8 +21,3 @@ orderedCount = (text) => {
 }
 
 console.log(orderedCount("92125"))
-
-// let a = [[1,[2,3]],[2,[2,2]],[1,[2,1]]]
-// console.log(a.sort(function(a,b){
-//     return a[1][1]-b[1][1]
-// }))
